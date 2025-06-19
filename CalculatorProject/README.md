@@ -20,7 +20,7 @@
 
 > To display your own image, save it as `calculator_screenshot.png` and place it in the same directory.
 
-![Calculator Screenshot](./calculator_screenshot.png)
+![Calculator Screenshot](Screenshot%202025-06-19%20111120.png)
 
 ---
 
